@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Detection and Monitoring Home lab](https://github.com)
-- [Nessus Vulnerability Management](https://github.com)
+- [Nessus Vulnerability Management](https://github.com/nmaganuco/NessusVulnMgmt)
 
 <h2>Certifications</h2>
 - <a href="https://www.credly.com/badges/59ee6e43-9780-4dc1-9513-d940a6da4fa7">(ISC)² Certified in Cybersecurty</a>
