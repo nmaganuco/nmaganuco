@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicola! <br/><a href="https://www.linkedin.com/in/nicola-maganuco-1161801a6/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - [Detection and Monitoring Home lab](https://github.com)
 - [Nessus Vulnerability Management](https://github.com/nmaganuco/NessusVulnMgmt)
