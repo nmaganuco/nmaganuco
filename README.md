@@ -13,6 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NicolaMaganuco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nicola Maganuco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://www.linkedin.com/in/nicola-maganuco-1161801a6/](https://www.linkedin.com/in/nicola-maganuco-m-s-1161801a6/)
+
+[linkedin]: https://www.linkedin.com/in/nicola-maganuco-m-s-1161801a6/
