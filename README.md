@@ -4,11 +4,13 @@
 
 - [Amazon Macie](https://github.com/nmaganuco/AWS-Projects/tree/main/Amazon-Macie)
 - [Nessus Vulnerability Management](https://github.com/nmaganuco/NessusVulnMgmt)
+- [Active Directory](https://github.com/nmaganuco/Active-Directory/blob/main/AD-Lab-Build/README.md)
 
 <h2>Certifications</h2>
-- <a href="https://www.credly.com/earner/earned/badge/b79c0362-7510-4183-a422-3c941877e608">CompTIA Security +</a>
+- <a href="https://www.credly.com/earner/earned/badge/b79c0362-7510-4183-a422-3c941877e608">CompTIA Security+</a>
 - <a href="https://www.credly.com/badges/d02301fc-3ed7-499e-9768-ed3df3cd1105">AWS Certified Cloud Practitioner</a>
-- <a href="https://www.credly.com/badges/59ee6e43-9780-4dc1-9513-d940a6da4fa7">(ISC)² Certified in Cybersecurty</a>
+- <a href="https://www.credly.com/badges/a2a9ed1d-37bd-4623-a611-b01c7dd83eba">CompTIA CySA+</a>
+
 
 
 <h2> 🤳 Connect with me:</h2>
