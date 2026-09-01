@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b1ab3a9c-c9b8-46f9-b125-1ad03b77d6a5" alt="Nico Maganuco banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nico Maganuco</h1>
+<h1 align="center">Hi 👋, I'm Nicola Maganuco</h1>
 <h3 align="center">IT Engineer • M.S. Cybersecurity • building toward Identity & Access Management</h3>
 
 <p align="center">
