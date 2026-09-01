@@ -6,7 +6,7 @@
 <h3 align="center">IT Engineer • M.S. Cybersecurity • building toward Identity & Access Management</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicola-maganuco-m-s-1161801a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/nicola-maganuco"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Salt_Lake_City,_UT-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=555555" alt="Location">
 </p>
 
@@ -76,5 +76,5 @@ CompTIA Security+ satisfies **DoD 8140 / 8570 IAT Level II**.
 
 <p align="center">
   <em>Latest: shipped the Canyon Peak IAM lab series — next stop, the Okta Certified Professional exam.</em><br>
-  <a href="https://linkedin.com/in/nicola-maganuco-m-s-1161801a6">LinkedIn</a>
+  <a href="https://linkedin.com/in/nicola-maganuco">LinkedIn</a>
 </p>
