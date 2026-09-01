@@ -28,15 +28,9 @@ Lately I've been pulling hard toward **identity** — directory design, lifecycl
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
+| **[Canyon Peak IAM Labs](https://github.com/nmaganuco/canyon-peak-iam-labs)** | A seven-lab Okta + Active Directory series for a fictional MSP: tenant build, directory integration, RBAC, SAML SSO, adaptive MFA, and a full joiner/mover/leaver lifecycle — written up end to end, dead ends included. | Okta, Active Directory, Windows Server |
 | **[Nessus Vulnerability Management](https://github.com/nmaganuco/NessusVulnMgmt)** | Credentialed and uncredentialed scanning against a Windows target, plus the remediation cycle and re-scan verification. | Nessus Essentials, VMware, Windows 10 |
 | **[Amazon Macie](https://github.com/nmaganuco/AWS-Projects/tree/main/Amazon-Macie)** | Sensitive-data discovery in S3 — classification jobs, findings triage, and what Macie does and doesn't catch. | AWS, S3, Macie, IAM |
-
-<!-- ONCE canyon-peak-iam-labs IS PUBLIC: move the row below UP into the table above (make it the
-     first row, directly under the |:---| separator line), then delete these comment markers.
-     Don't just uncomment it in place — a comment line inside a table breaks GitHub's table parser.
-
-| **[Canyon Peak IAM Labs](https://github.com/nmaganuco/canyon-peak-iam-labs)** | A six-lab Okta + Active Directory series for a fictional MSP: directory integration, SSO, provisioning, and scripted joiner/mover/leaver automation. | Okta, Active Directory, PowerShell |
--->
 
 ---
 
@@ -81,6 +75,6 @@ CompTIA Security+ satisfies **DoD 8140 / 8570 IAT Level II**.
 ---
 
 <p align="center">
-  <em>Currently building an Okta + Active Directory lab series from scratch.</em><br>
+  <em>Latest: shipped the Canyon Peak IAM lab series — next stop, the Okta Certified Professional exam.</em><br>
   <a href="https://linkedin.com/in/nicola-maganuco-m-s-1161801a6">LinkedIn</a>
 </p>
